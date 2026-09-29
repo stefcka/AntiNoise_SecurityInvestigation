@@ -1,0 +1,8 @@
+.env
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+# Live captures can contain real names, IPs and mail metadata from your tenant.
+fixtures/z_capture_*.json
